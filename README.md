@@ -20,7 +20,3 @@ O objetivo foi praticar **JavaScript**, **controle de versões com Git/GitHub** 
 
 ---
 
-## ⚙️ Como rodar o projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/meu-projeto-tarefas.git
